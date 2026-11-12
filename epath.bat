@@ -1,2 +1,2 @@
 @echo off
-echo %CD%
+for %%I in ("%~1") do echo %%~fI

@@ -1,2 +1,2 @@
 @echo off
-epath | clip
+epath %1 | clip
